@@ -7,12 +7,12 @@ console.log(grades);
 
 // result = Math.max(+grades )
 
-function nawal (a,b,c) {
-    return result = Math.min(a,b,c)
-     //return result = Math.max.apply(null, grades)
+function action (grades) {
+
+    return result = Math.max.apply(null, grades)
 }
 
-nawal(34,45,65)
+action(grades)
 
 // console.log(result);
 document.write("The lagest number is : " + result + "<br>")
