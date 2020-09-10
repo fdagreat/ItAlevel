@@ -8,7 +8,7 @@ console.log(grades);
 // result = Math.max(+grades )
 
 function nawal (a,b,c) {
-    return result = Math.min(a,b,c)
+    return result = Math.max(a,b,c)
      //return result = Math.max.apply(null, grades)
 }
 

@@ -9,7 +9,7 @@ console.log(grades);
 
 function action (grades) {
 
-    return result = Math.max.apply(null, grades)
+    return result = Math.min.apply(null, grades)
 }
 
 action(grades)
