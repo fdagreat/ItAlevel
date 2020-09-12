@@ -2,6 +2,8 @@
 
 
 var mark
+// console.log(mark.sort());
+
 
 mark = prompt("Write your grade")
 
