@@ -1,10 +1,10 @@
 
 
-var number = 800
+// var number = 800
 
 var number = prompt("Write the end interger please")
-let start = 0
-let end = number
+var start = 0
+var end = number
 
 
 function range(start, end) {
