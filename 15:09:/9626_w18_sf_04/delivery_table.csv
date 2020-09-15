@@ -1,0 +1,13 @@
+Order_Id,Delivery_date,Delivery_time,Collection_date,Collection_time
+bh12,03-Nov,10:00,07-Nov,16:00
+cw02,04-Nov,12:00,07-Nov,12:00
+ms11,04-Nov,09:00,11-Nov,17:00
+bh13,09-Nov,13:00,12-Nov,10:00
+fj01,10-Nov,08:00,11-Nov,18:00
+bh15,15-Nov,09:00,20-Nov,13:00
+ms12,16-Nov,11:00,20-Nov,11:00
+bh09,23-Nov,14:00,27-Nov,09:00
+kl23,24-Nov,14:00,27-Nov,10:00
+cw03,25-Nov,11:00,27-Nov,12:00
+ms10,25-Nov,10:00,26-Nov,10:00
+bh014,29-Nov,08:00,01-Dec,09:00
